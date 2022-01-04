@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2021-react-website/static/css/main.ca7ebd22.css",
+    "main.js": "/2021-react-website/static/js/main.0c4b1949.js",
+    "static/media/blog04.jpg": "/2021-react-website/static/media/blog04.656d2570c60786fbf39a.jpg",
+    "static/media/ai.png": "/2021-react-website/static/media/ai.f0516cd0c5c08bc3d6e4.png",
+    "static/media/blog03.JPG": "/2021-react-website/static/media/blog03.b75d20389e1aa742baf9.JPG",
+    "static/media/blog01.JPG": "/2021-react-website/static/media/blog01.e233a0daf04a8f9d3ffa.JPG",
+    "static/media/blog02.JPG": "/2021-react-website/static/media/blog02.1bfddc6f35855aa26315.JPG",
+    "static/media/blog05.JPG": "/2021-react-website/static/media/blog05.620c0c239405268c0bc8.JPG",
+    "static/media/resume.pdf": "/2021-react-website/static/media/resume.0384a5f3cdc35935b4f1.pdf",
+    "static/media/alan-on-computer-logo.png": "/2021-react-website/static/media/alan-on-computer-logo.84ca0fe8b73712b14ade.png",
+    "static/media/people.png": "/2021-react-website/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/2021-react-website/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/2021-react-website/index.html",
+    "main.ca7ebd22.css.map": "/2021-react-website/static/css/main.ca7ebd22.css.map",
+    "main.0c4b1949.js.map": "/2021-react-website/static/js/main.0c4b1949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca7ebd22.css",
+    "static/js/main.0c4b1949.js"
+  ]
+}
