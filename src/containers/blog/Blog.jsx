@@ -10,7 +10,8 @@ const Blog = () => {
     return (
         <div className="blogger__blog section__padding" id="blog">
             <div className="blogger__blog-heading">
-                <h1 className="gradient__text">RANDOM PHOTOS - They look neat (to me):</h1>
+                <h1 className="gradient__text">RANDOM <i class="fa fa-camera-retro"></i> PHOTOS</h1>
+                <h3 className="gradient__text">That I think look neat</h3>
             </div>
             <div className="blogger__blog-container">
                 <div className="blogger__blog-container_groupB">

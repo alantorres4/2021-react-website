@@ -6,13 +6,13 @@ const WhatAlan = () => {
     return (
         <div className="feat__whatalan section__margin" id="aboutMe">
             <div className="feat__whatalan-feature">
-                <Feature title="About Me" text="Hi, I'm Alan (again). I'm in my last year of undergrad, so I'm working on my big final project (Capstone Project). I'm experienced in several programming languages and am mastering them through internships, coursework, and side projects." />
+                <Feature title="About Me" text="I'm in my last year of undergrad, so I'm mostly working on my final project (Capstone Project). I'm experienced in several programming languages and am mastering them through internships, coursework, and side projects. " />
             </div>
 
             <div className="feat__whatalan-heading">
                 <h1 className="gradient__text" id="projects">PROJECTS -- Here are a few I have worked on:</h1>
                 <p>
-                    <a href="https://github.com/alantorres4" target="__blank">Explore more of my projects</a>
+                    <a href="https://github.com/alantorres4" target="__blank"> Explore more of my projects &nbsp; <i class="fa fa-long-arrow-right"></i> </a>
                 </p>
             </div>
 

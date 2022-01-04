@@ -7,7 +7,7 @@ const Feature = ({ title, text, link }) => {
             <div className="feat__features-container__feature-title">
                 <div />
                 <h1>
-                    <a href={link} target="__blank">{title}</a>
+                    <a href={link} target="__blank">{title} &nbsp; <i class="fa fa-angle-right"></i> </a>
                 </h1>
                 <br></br>
             </div>

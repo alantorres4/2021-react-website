@@ -15,7 +15,7 @@
     font-weight: 500;
     font-size: 12px;
     line-height: 30px;
-    color: #0E0E0E;
+    color: #5fb3ac;
 }
 
 .call__cta-content h3 {
@@ -23,7 +23,7 @@
     font-weight: 800;
     font-size: 24px;
     line-height: 45px;
-    color: #000000;
+    color: #7ce7f5;
 }
 
 .call__cta-button {
@@ -34,8 +34,8 @@
 }
 
 .call__cta-button button {
-    background: #000000;
-    color: #FFFFFF;
+    background: #02010ce3;
+    color: #55ddff;
     border-radius: 40px;
     font-family: var(--font-family);
     font-weight: bold;
