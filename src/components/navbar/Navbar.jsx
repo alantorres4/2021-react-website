@@ -46,8 +46,13 @@ const Navbar = () => {
                         <div className="navigation__navbar-menu_container-links">
                             <Menu />
                             <div className="navigation__navbar-menu_container-links-contact">
-                                <p>Contact</p>
-                                <button type="button">GitHub</button>
+                                <p>
+                                    <a href = "mailto: ajtorres729@gmail.com">send email</a>
+                                </p>
+
+                                <button type="button">
+                                    <a href="https://github.com/alantorres4" target="__blank">github</a>
+                                </button>
                             </div>
                         </div>
                     </div>

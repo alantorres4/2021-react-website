@@ -3,17 +3,11 @@
 :root {
   --font-family: 'Manrope', sans-serif;
 
-  /* --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%); */
   --gradient-text: linear-gradient(90deg, rgba(60, 172, 255, 1) 0%, rgba(103, 244, 193, 1) 76%);
-
-
-  /* --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%); */
   --gradient-bar: linear-gradient(90deg, rgba(60, 172, 255, 1) 0%, rgba(103, 244, 193, 1) 76%);
   --spotify-gradient-bar: linear-gradient(90deg, rgba(33, 190, 189, 1) 0%, rgba(71, 190, 153, 1) 100%);
 
-
-
-  --color-bg: #040C18;
+  --color-bg: rgb(18, 34, 75);
   --color-footer : #031B34;
   --color-blog: #042c54;
   --color-text: #81AFDD;
