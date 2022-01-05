@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.3d9e9ed1.css",
-    "main.js": "/static/js/main.85e91983.js",
+    "main.js": "/static/js/main.5fa9df5b.js",
     "static/media/blog04.jpg": "/static/media/blog04.656d2570c60786fbf39a.jpg",
     "static/media/ai.png": "/static/media/ai.f0516cd0c5c08bc3d6e4.png",
     "static/media/blog03.JPG": "/static/media/blog03.b75d20389e1aa742baf9.JPG",
     "static/media/blog01.JPG": "/static/media/blog01.e233a0daf04a8f9d3ffa.JPG",
     "static/media/blog02.JPG": "/static/media/blog02.1bfddc6f35855aa26315.JPG",
     "static/media/blog05.JPG": "/static/media/blog05.620c0c239405268c0bc8.JPG",
-    "static/media/resume.pdf": "/static/media/resume.0384a5f3cdc35935b4f1.pdf",
+    "static/media/resume.pdf": "/static/media/resume.5145ce5ec68dab980478.pdf",
     "static/media/alan-on-computer-logo.png": "/static/media/alan-on-computer-logo.84ca0fe8b73712b14ade.png",
     "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/index.html",
     "main.3d9e9ed1.css.map": "/static/css/main.3d9e9ed1.css.map",
-    "main.85e91983.js.map": "/static/js/main.85e91983.js.map"
+    "main.5fa9df5b.js.map": "/static/js/main.5fa9df5b.js.map"
   },
   "entrypoints": [
     "static/css/main.3d9e9ed1.css",
-    "static/js/main.85e91983.js"
+    "static/js/main.5fa9df5b.js"
   ]
 }
