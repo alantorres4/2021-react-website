@@ -1,5 +1,4 @@
 import React from 'react';
-import alanLogo from '../../assets/logo.svg';
 import './footer.css';
 
 import { GitHub, LinkedIn, Instagram, Spotify, Twitter } from './imports';
@@ -26,7 +25,7 @@ const Footer = () => {
                 </a>
             </div>
             <div>
-                <a href="https://www.linkedin.com/in/alan-julio-torres-054519178/" target="__blank">
+                <a href="https://www.linkedin.com/in/alan-torres-054519178/" target="__blank">
                     <img src={LinkedIn} alt="linkedin" />
                 </a>
             </div>
