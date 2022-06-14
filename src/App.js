@@ -12,9 +12,9 @@ const App = () => {
                 <Navbar />
                 <Header />
             </div>
-            <Brand />
             <WhatAlan />
             <Features />
+            <Brand />
             <CTA />
             <Blog />
             <Footer />

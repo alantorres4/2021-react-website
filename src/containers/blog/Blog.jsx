@@ -1,7 +1,7 @@
 import React from 'react';
 import Article from '../../components/article/Article';
 import './blog.css';
-import { blog01, blog02, blog03, blog04, blog05 } from './imports';
+import { blog01, blog02, blog03, blog04, blog05, blog06, blog07 } from './imports';
 
 
 
@@ -10,11 +10,13 @@ const Blog = () => {
     return (
         <div className="blogger__blog section__padding" id="blog">
             <div className="blogger__blog-heading">
-                <h1 className="gradient__text">RANDOM <i class="fa fa-camera-retro"></i> PHOTOS</h1>
+                <h1 className="gradient__text">Random Photos I've Taken</h1>
                 <h3 className="gradient__text">That I think look neat</h3>
             </div>
             <div className="blogger__blog-container">
                 <div className="blogger__blog-container_groupB">
+                    <Article imgUrl={blog07} date="May 25, 2022" title="San Diego, CA. Kimball sitting on a bench at the bach of the zoo. This was the largest zoo I've been to and we found this bench near the back of it! We were taking a break from all the walking so I snapped this with a disposable camera. Wonder what kind of turtle that is in the back" />
+                    <Article imgUrl={blog06} date="May 24, 2022" title="Kimchi and I in front of a dino! This was on the first floor of the San Diego Natural History Museum. Lots of fossilized animals! We spent the day there and snapped this pic I believe after lunch." />
                     <Article imgUrl={blog01} date="Aug 4, 2021" title="Santa Maria, CA. The building in the photo (behind Uriel) is the best burger I have EVER had, King Falafel. Life changing. It was after swimming at I think Santa Barbara? I was starving and exhausted from crashing against the waves and this burger, combined with the exhaustion, cool temperatures, nice wind- it was delicious. "/>
                     <Article imgUrl={blog02} date="Sept 28, 2020" title="A couple of stickers from Warpstar. I think they broke up? I know some or all of them made a new band called Droll."/>
                     <Article imgUrl={blog03} date="Sept 3, 2021" title="A couple of polaroids of Kim and I cheesin'" />

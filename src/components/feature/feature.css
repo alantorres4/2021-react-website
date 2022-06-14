@@ -14,6 +14,13 @@
     margin-right: 2rem;
 }
 
+.feat__features-container__feature-title-aboveTitle {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 14px;
+    color: #00a2ff;
+}
+
 .feat__features-container__feature-title h1 {
     font-family: var(--font-family);
     font-weight: 800;
