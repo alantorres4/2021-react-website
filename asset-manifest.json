@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.18806733.css",
-    "main.js": "/static/js/main.5102fbec.js",
+    "main.css": "/static/css/main.25246970.css",
+    "main.js": "/static/js/main.07a6528a.js",
     "static/media/IMG_5572.JPG": "/static/media/IMG_5572.e2ead099a30199ee9c23.JPG",
     "static/media/blog04.jpg": "/static/media/blog04.656d2570c60786fbf39a.jpg",
-    "static/media/ai.png": "/static/media/ai.f0516cd0c5c08bc3d6e4.png",
+    "static/media/3d-work-exp-upscaled.jpeg": "/static/media/3d-work-exp-upscaled.7fb4658dd82cee036dd4.jpeg",
     "static/media/IMG_5558.jpg": "/static/media/IMG_5558.2c3e68ec117f173f0227.jpg",
     "static/media/blog03.JPG": "/static/media/blog03.b75d20389e1aa742baf9.JPG",
     "static/media/blog01.JPG": "/static/media/blog01.e233a0daf04a8f9d3ffa.JPG",
     "static/media/blog02.JPG": "/static/media/blog02.1bfddc6f35855aa26315.JPG",
+    "static/media/3d-alan-upscaled.png": "/static/media/3d-alan-upscaled.0638ee637568b18ac02a.png",
     "static/media/blog05.JPG": "/static/media/blog05.620c0c239405268c0bc8.JPG",
-    "static/media/resume.pdf": "/static/media/resume.48c3cfe6f72670b559d1.pdf",
+    "static/media/magic-app.png": "/static/media/magic-app.1a5f7f8c0a2e5de24fdf.png",
+    "static/media/resume.pdf": "/static/media/resume.0782590e5a1713862fdf.pdf",
     "static/media/alan-on-computer-logo.png": "/static/media/alan-on-computer-logo.84ca0fe8b73712b14ade.png",
+    "static/media/dbms-project-mockup.png": "/static/media/dbms-project-mockup.c410e0364a5c3cac6254.png",
+    "static/media/toogle-project-mockup.png": "/static/media/toogle-project-mockup.351c564eac7f66fbd747.png",
     "index.html": "/index.html",
-    "main.18806733.css.map": "/static/css/main.18806733.css.map",
-    "main.5102fbec.js.map": "/static/js/main.5102fbec.js.map"
+    "main.25246970.css.map": "/static/css/main.25246970.css.map",
+    "main.07a6528a.js.map": "/static/js/main.07a6528a.js.map"
   },
   "entrypoints": [
-    "static/css/main.18806733.css",
-    "static/js/main.5102fbec.js"
+    "static/css/main.25246970.css",
+    "static/js/main.07a6528a.js"
   ]
 }
