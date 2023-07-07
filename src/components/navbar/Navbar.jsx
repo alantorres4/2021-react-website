@@ -28,9 +28,6 @@ const Navbar = () => {
             </div>
 
             <div className="navigation__navbar-contact">
-                <p>
-                    <a href="https://github.com/alantorres4" target="__blank">GitHub <i class="fa fa-github"></i></a>
-                </p>
                 <button type="button">
                     <a href = "mailto: ajtorres729@gmail.com"> Email <i class="fa fa-paper-plane"></i></a>
                 </button>
@@ -46,10 +43,6 @@ const Navbar = () => {
                         <div className="navigation__navbar-menu_container-links">
                             <Menu />
                             <div className="navigation__navbar-menu_container-links-contact">
-                                <p>
-                                    <a href="https://github.com/alantorres4" target="__blank">GitHub <i class="fa fa-github"></i></a>
-                                </p>
-
                                 <button type="button">
                                     <a href = "mailto: ajtorres729@gmail.com">Email <i class="fa fa-paper-plane"></i></a>
                                 </button>

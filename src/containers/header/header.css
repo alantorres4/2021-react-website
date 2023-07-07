@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One:wght@200;300;400;500;600;700;800&display=swap');
 
 .heading__header {
     display: flex;
@@ -14,11 +15,12 @@
 }
 
 .heading__header-content h1 {
-    font-family: var(--font-family);
+    color: var(--color-text);
+    font-family: 'Lilita One';
     font-weight: 800;
     font-size: 62px;
     line-height: 75px;
-    letter-spacing: -0.04em;
+    /* letter-spacing: -0.04em; */
 }
 
 .heading__header-content p {
@@ -107,7 +109,7 @@
 }
 
 .heading__header-image img {
-    width: 100%;
+    width: 50%;
     height: 100%;
 }
 

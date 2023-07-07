@@ -10,8 +10,8 @@ const Blog = () => {
     return (
         <div className="blogger__blog section__padding" id="blog">
             <div className="blogger__blog-heading">
-                <h1 className="gradient__text">Random Photos I've Taken</h1>
-                <h3 className="gradient__text">That I think look neat</h3>
+                <h1>Random Photos</h1>
+                <h4>Updated every so often</h4>
             </div>
             <div className="blogger__blog-container">
                 <div className="blogger__blog-container_groupB">

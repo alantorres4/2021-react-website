@@ -12,10 +12,10 @@
 
 .call__cta-content p {
     font-family: var(--font-family);
-    font-weight: 500;
-    font-size: 12px;
+    font-weight: 600;
+    font-size: 14px;
     line-height: 30px;
-    color: #5fb3ac;
+    color: #92ffde;
 }
 
 .call__cta-content h3 {
@@ -23,7 +23,7 @@
     font-weight: 800;
     font-size: 24px;
     line-height: 45px;
-    color: #7ce7f5;
+    color: #c3ffe2;
 }
 
 .call__cta-button {
@@ -34,12 +34,12 @@
 }
 
 .call__cta-button button {
-    background: #02010ce3;
-    color: #55ddff;
+    background: #3dffdf;
+    color: #087c5f;
     border-radius: 40px;
     font-family: var(--font-family);
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 30px;
     padding: 0.5rem 1rem;
     border: none;

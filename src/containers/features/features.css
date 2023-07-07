@@ -3,6 +3,7 @@
     display: flex;
     justify-content: space-between;
     flex-direction: row;
+    background-color: rgb(40, 142, 90); 
 }
 
 .feats__features-heading {
@@ -15,11 +16,25 @@
     margin-right: 5rem;
 }
 
+.work-experience-image {
+    background-color: rgb(255, 250, 198); 
+    padding: 1rem;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.work-experience-image img {
+    width: 100%;
+    height: 50%;
+}
+
 .feats__features-heading h1 {
     font-family: var(--font-family);
+    color: whitesmoke;
     font-weight: 800;
     font-size: 34px;
-    line-height: 45px;
 }
 
 .feats__features-heading p {
@@ -27,8 +42,8 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 30px;
-    color: #3cf8ff;
-    margin-top: 2rem;
+    color: #fff8b6;
+    margin-bottom: 2rem;
     cursor: pointer;
 }
 

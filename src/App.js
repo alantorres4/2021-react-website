@@ -2,7 +2,7 @@
 import React from 'react';
 
 import { Footer, Blog, Features, WhatAlan, Header } from './containers';
-import { CTA, Brand, Navbar } from './components';
+import { CTA, Navbar } from './components';
 import './App.css';
 
 const App = () => {
@@ -12,9 +12,8 @@ const App = () => {
                 <Navbar />
                 <Header />
             </div>
-            <WhatAlan />
             <Features />
-            <Brand />
+            <WhatAlan />
             <CTA />
             <Blog />
             <Footer />

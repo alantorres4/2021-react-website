@@ -1,12 +1,14 @@
 .blogger__blog {
     display: flex;
     flex-direction: column;
+    background-color: #B94429;
 }
 
 .blogger__blog-heading {
     width: 100%;
-    text-align: center;
+    text-align: left;
     margin-bottom: 5rem;
+    color: #FDDA7D
 }
 
 .blogger__blog-heading h1 {
@@ -17,7 +19,7 @@
     letter-spacing: -0.04em;
 }
 
-.blogger__blog-heading h3 {
+.blogger__blog-heading h4 {
     font-family: var(--font-family);
     font-weight: 800;
     font-size: 22px;
@@ -74,7 +76,7 @@
         line-height: 52px;
     }
 
-    .blogger__blog-heading h3 {
+    .blogger__blog-heading h4 {
         font-size: 19px;
         line-height: 24.27px;
     }
@@ -86,7 +88,7 @@
         line-height: 42px;
     }
 
-    .blogger__blog-heading h3 {
+    .blogger__blog-heading h4 {
         font-size: 14px;
         line-height: 19.6px;
     }
