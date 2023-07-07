@@ -2,9 +2,8 @@ import React from 'react';
 import Feature from '../../components/feature/Feature';
 import './features.css';
 import resume from '../../assets/resume.pdf';
-
 import upscaledAlan from '../../assets/3d-work-exp-upscaled.jpeg';
-
+import Fade from 'react-reveal/Fade';
 
 const featuresData = [
     {
@@ -48,7 +47,6 @@ const Features = () => {
                     <a href="https://www.linkedin.com/in/alan-torres-054519178/" target="__blank" className="social-buttons"> <i class="fa fa-linkedin"></i> </a>
                     <a href="https://github.com/alantorres4" target="__blank" className="social-buttons"> <i class="fa fa-github"></i> </a>
                 </div>
-
                 <h1>Work Experience</h1>
                 <p> <a href={resume} download="AlanTorresWebsiteResume.pdf">Download Resume &nbsp; <i class="fa fa-download"> </i></a> </p>
 
@@ -57,11 +55,13 @@ const Features = () => {
                 </div>
 
             </div>
-            <div className="feats__features-container">
-                {featuresData.map((item, index) => (
-                    <Feature aboveTitle={item.aboveTitle} title={item.title} text={item.text} link={item.link} key={item.title + index} />
-                    ))}
-            </div>
+            <Fade left>
+                <div className="feats__features-container">
+                    {featuresData.map((item, index) => (
+                        <Feature aboveTitle={item.aboveTitle} title={item.title} text={item.text} link={item.link} key={item.title + index} />
+                        ))}
+                </div>
+            </Fade>
         </div>
     )
 }
